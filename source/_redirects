@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://cogitoxin.netlify.com/* http://www.cogitoxin.online/:splat 301!
